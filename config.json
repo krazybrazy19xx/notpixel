@@ -1,4 +1,10 @@
 {
+  "api_urls": {
+    "user_info": "https://notpx.app/api/v1/users/me",
+    "mining_status": "https://notpx.app/api/v1/mining/status",
+    "repaint_start": "https://notpx.app/api/v1/repaint/start",
+    "template_subscribe": "https://notpx.app/api/v1/image/template/subscribe/6160661591"
+  },
   "ranges": [
     [100102, 100225], [101102, 101225], [102102, 102225], [103102, 103225],
     [104102, 104225], [105102, 105225], [106102, 106225], [107102, 107225],
