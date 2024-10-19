@@ -3,7 +3,8 @@
     "user_info": "https://notpx.app/api/v1/users/me",
     "mining_status": "https://notpx.app/api/v1/mining/status",
     "repaint_start": "https://notpx.app/api/v1/repaint/start",
-    "template_subscribe": "https://notpx.app/api/v1/image/template/subscribe/6160661591"
+    "template_subscribe": "https://notpx.app/api/v1/image/template/subscribe/6160661591",
+    "claim_mining": "https://notpx.app/api/v1/mining/claim"
   },
   "ranges": [
     [100102, 100225], [101102, 101225], [102102, 102225], [103102, 103225],
