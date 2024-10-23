@@ -3,7 +3,7 @@
     "user_info": "https://notpx.app/api/v1/users/me",
     "mining_status": "https://notpx.app/api/v1/mining/status",
     "repaint_start": "https://notpx.app/api/v1/repaint/start",
-    "template_subscribe": "https://notpx.app/api/v1/image/template/subscribe/6763723927",
+    "template_subscribe": "https://notpx.app/api/v1/image/template/subscribe/6143131688",
     "claim_mining": "https://notpx.app/api/v1/mining/claim"
   },
   "ranges": [
